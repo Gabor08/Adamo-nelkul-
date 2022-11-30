@@ -1,0 +1,48 @@
+r1
+
+ena
+clock set 12:00:00 30 nov 2022
+conf t
+host R1
+ena sec class123
+no ip domain-l
+bann motd 'taka!'
+login bl for 60 attempts 2 within 30
+security passwords min-lenght 8
+
+lin con 0
+pass cisco123
+login
+logg syn
+exec 5
+line vty 0 15
+pass cisco123
+login
+exec 5
+exit
+ser pass
+
+
+
+sw1
+
+ena
+clock set 12:00:00 30 nov 2022
+conf t
+host Sw1
+ena sec class123
+no ip domain-l
+bann motd 'taka!'
+
+
+lin con 0
+pass cisco123
+login
+logg syn
+exec 5
+line vty 0 15
+pass cisco123
+login
+exec 5
+exit
+ser pass
