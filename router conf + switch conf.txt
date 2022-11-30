@@ -46,3 +46,27 @@ login
 exec 5
 exit
 ser pass
+
+vlan 10
+name Lila
+vlan 20 
+name Narancs
+Vlan 30
+name Kek
+Vlan 40
+name Zöld
+vlan 99
+name Native
+
+int r fa0/1-5
+swit mode acc
+swit acc vlan 10
+int r fa0/6-10
+swit mode acc
+swit acc vlan 20
+int r fa0/11-15
+swit mode acc
+swit acc vlan 30
+int r fa0/16-20
+swit mode acc
+swit acc vlan 40
