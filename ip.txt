@@ -59,13 +59,13 @@ maszk : 255.255.255.240
 4) 32-39 lila
 
 
-Harmadik ag R4 alatt
+Harmadik ag R4 alatt 
 199.200.40.2 / 29
 maszk : 255.255.255.240
 2^4 = 32 2566/32 = 8
 1) 1-7 hipo
 2) 8-15 piros
-3) 16-23 hipo
+3) 16-23 narancs
 4) 24-31 zold
 4) 32-39 lila
 
@@ -75,7 +75,7 @@ maszk : 255.255.255.240
 2^4 = 32 2566/32 = 8
 1) 1-7 hipo
 2) 8-15 piros
-3) 16-23 hipo
+3) 16-23 narancs
 4) 24-31 zold
 4) 32-39 lila
 
