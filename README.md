@@ -1,12 +1,12 @@
 # maradek-plusz-Adamo
 
 *Csapat*
-- G. Gabor
-- J Gabor
-- Sz. Levente
-- V. Gergo
-- F. Ramon
-- Michael
-- M A F
+- G. Gabor topologia
+- J Gabor beagyazas
+- Sz. Levente ip cimek halozati eszkozokre
+- V. Gergo alapkonfigok
+- F. Ramon vlanok
+- Michael ip cimek allomasokra
+- M A F route
 
 - ip cim 199.200.10.0 /29
