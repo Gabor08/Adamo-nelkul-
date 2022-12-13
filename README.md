@@ -7,7 +7,6 @@
 - V. Gergo alapkonfigok
 - F. Ramon vlanok
 - Michael ip cimek allomasokra
-- M A F route
 
 - ip cim 199.200.10.0 /29
 
