@@ -1,4 +1,4 @@
-# maradek-plusz-Adamo
+# maradek-plusz-senki
 
 *Csapat*
 - G. Gabor topologia
